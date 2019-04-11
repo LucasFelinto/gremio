@@ -1,0 +1,109 @@
+
+
+  footer{
+    margin-top: 100px;  
+  }
+  .info{
+
+    width: 900px;
+    position: relative;
+    margin: 50px auto;
+    color:black;
+    text-align: center;
+    
+  } 
+  .info p{
+    font-size: 18px;
+
+  }
+  .separador{
+    position: relative;
+    height: 4px;
+    margin:auto;
+    background-color: black;
+  }
+  .segundo-separador{
+    position: relative;
+    width: 650px;
+    height: 4px;
+    margin: 0px auto;
+    background-color: black;
+
+  }
+  
+   .pessoas {
+    width: 50px;
+    display: inline-flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+    padding: 70px;
+    margin-left: 180px;
+    margin-top: -100px;
+            
+   }
+
+        .nome {
+            color:  black;
+            text-align: center;
+            font-size: 25px;
+            margin-top: 10px;
+        
+
+        }
+
+        .email {
+            
+            text-align: center;
+            color: black;
+            font-style: italic;
+            font-size: 17px;
+        }
+        .cargo {
+        	 color:  black;
+            text-align: center;
+            font-size: 20px;
+            
+            margin-top: 10px;
+         
+        }
+
+        #documentos {
+          background-color: #f9f9ff;
+          padding: 50px 30px;
+          display: block;
+          margin-top: 100px;
+          height: 200px;
+          width: 600px;
+          color:#5A142A;
+        }
+        
+        .nicole{
+          text-align: center;
+            color: black;
+            font-style: italic;
+            font-size: 17px;
+            color:  black;
+            text-align: center;
+            font-size: 20px;
+            margin-top: 10px;
+             color:  black;
+            text-align: center;
+            font-size: 25px;
+            margin-top: 10px;
+             width: 50px;
+         display: inline-flex;
+         justify-content: center;
+         align-items:center;
+         flex-direction: column;
+         padding: 20px;
+         margin-left: 47%;
+         margin-top: -100px;
+        }
+
+
+
+
+
+        
+
